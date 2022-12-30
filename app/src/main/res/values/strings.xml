@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Gallery</string>
+    <string name="delete">Delete</string>
+    <string name="favourite">Favourite</string>
+    <string name="my_gallery">My Gallery</string>
+    <string name="image_added_as_favourite">Image added as favourite</string>
+    <string name="video_added_as_favourite">Video added as favourite</string>
+    <string name="permission_granted">Permission Granted!</string>
+    <string name="already_added_to_favourite">Already added to favourites!</string>
+    <string name="image_removed_from_favourite">Image removed from favourites!</string>
+    <string name="video_removed_from_favourite">Video removed from favourites!</string>
+    <string name="deleted_successfully">Deleted Successfully</string>
+    <string name="error_occurred_while_deleting">Error occurred while deleting!</string>
+    <string name="file_not_exist">File not exist!</string>
+</resources>
